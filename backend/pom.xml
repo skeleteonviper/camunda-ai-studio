@@ -11,21 +11,8 @@
 	<groupId>com.camundaaistudio</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend</name>
-	<description/>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	<name>Camunda AI Studio Backend</name>
+	<description>AI powered Camunda 8 modeling platform</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
