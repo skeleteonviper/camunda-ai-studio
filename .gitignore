@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+__pycache__/
+.venv/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
